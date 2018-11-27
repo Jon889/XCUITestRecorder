@@ -2,7 +2,7 @@
 
 Records each UI Test to a video file and log file, so that you can see how the UI Test failed.
 
-Works on Xcode 10 (well I've used 10.1 but it probably work on 10 too)
+Works on Xcode 10 (well I've used 10.1 but it probably works on 10 too)
 
 ## Usage
 
