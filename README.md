@@ -1,3 +1,5 @@
+This is no longer needed as recording is built into Xcode :)
+
 # XCUITestRecorder
 
 Records each UI Test to a video file and log file, so that you can see how the UI Test failed.
